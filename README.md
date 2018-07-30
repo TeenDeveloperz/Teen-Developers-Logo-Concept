@@ -3,3 +3,8 @@
 # Includes...
 * CDR File
 * JPG Image
+
+# Contributors
+
+* Shodipo Ayomide (Author)
+* You
